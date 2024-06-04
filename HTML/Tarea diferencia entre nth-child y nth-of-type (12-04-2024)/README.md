@@ -3,8 +3,6 @@
 - **nth-child:** Selecciona elementos según su posición general como elemento hijo. Si hacemos nth-child(1n) va a seleccionar los hijos impares.
 - **nth-of-type:** Selecciona elementos según su posición entre elementos del mismo tipo dentro del padre. Si ponemos por ejemplo nth-of-type(1n) va a seleccionar los elementos impares del mismo tipo.
 
-## Ejemplos
-
 Viendo primero esta página web en la que usamos nth-child.
 
 ![img](./img/nth-child.png)
