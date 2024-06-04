@@ -15,5 +15,5 @@ Ahora reemplazamos nth-child con nth-of-type.
 
 En este caso, podemos observar como nth-of-type toma los hijos a partir de los tipos indicados; no a partir del elemento padre.
 
-([html de nth-child](./nth-child.html)):
-([html de nth-of-type](./nth-of-type.html)):
+[html de nth-child](./nth-child.html)
+[html de nth-of-type](./nth-of-type.html)
